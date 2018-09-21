@@ -1,0 +1,144 @@
+body {
+	background: #EEE;
+}
+
+.login {
+	width: 300px;
+	margin: 100px;
+   /*float: right;*/
+   margin-left: 35%;
+}
+.login input  {
+	margin-bottom: 20px;
+
+}
+.login h3 {
+	text-align: center;
+}
+.login .btn {
+	font-size: 1.9em;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.edit input  , .add input {
+margin-bottom: 20px;
+}
+.form-group-lg .form-control {
+
+	position: relative;
+}
+.ast {
+
+	position: absolute;
+color: red;
+font-size: 47px;
+right: 19px;
+z-index: 2;
+bottom: 0px;
+}
+
+/*dashbord page*/
+.home .stat {
+
+	background-color: #EEE ;
+	border:1px  solid #ccc;
+	padding: 20px;
+	font-size: 20px;
+
+}
+.home .stat span {
+	display: block;
+}
+.latest {
+
+	margin-top: 30px;
+	width: 90%;
+}
+.listlast li {
+	overflow: hidden;
+}
+.listlast li button {
+	height: 30px;
+	margin-bottom: 5px;
+}
+#act {
+	margin-bottom: 5px;
+	margin-right: 10px;
+} .parastyle {
+	width: 44%;
+	background-color: #EEE ;
+}
+.said {
+	color: green ;
+	font-size: .7em;
+}
+.lgcomm {
+	width: 38%;
+}
+/*dashbord page*/
+
+/*this is category style*/
+#vis  , #comm , #add{
+	color: white ;
+	padding: 4px 6px ;
+	background-color: #34495e;
+	margin-right: 10px;
+	border-radius: 6px;
+}
+#comm {
+	background-color:#3498db; 
+}
+#add {
+	background-color: #e74c3c;
+}
+#cat-btn {
+	position: relative;
+}
+#cat-btn1  {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+#cat-btn2 {
+	position: absolute;
+	right: 6%;
+}
+
+
+/*end   of category style*/
+/*start of styling items page*/
+#itemadd {
+	margin-top: 20px;
+	float: left;
+	margin-left: -130px;
+}
+#cat {
+	margin-left: 35%;
+}
+.select {
+	width: 70%;
+}
+#edit {
+
+	margin: 20px;
+	margin-left: -120px;
+}
+
+/*start of styling items page*/
+
+.parent {
+
+margin-bottom: 120px;
+}
+.cat-btn3 {
+	margin-top: -30px;
+}
+.subheader {
+	color: #2bb7aa;
+}
+.member-table img {
+max-width: 100px;
+max-height: 100px;
+border-radius: 50%;
+
+}

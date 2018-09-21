@@ -1,0 +1,219 @@
+body {
+	background: #EEE;
+}
+
+.login {
+	width: 300px;
+	margin: 100px;
+   /*float: right;*/
+   margin-left: 35%;
+}
+.login input  {
+	margin-bottom: 20px;
+
+}
+.login h3 {
+	text-align: center;
+}
+.login .btn {
+	font-size: 1.9em;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.edit input  , .add input {
+margin-bottom: 20px;
+}
+.form-group-lg .form-control {
+
+	position: relative;
+}
+.ast {
+
+position: absolute;
+color: red;
+font-size: 47px;
+right: 19px;
+z-index: 2;
+bottom: -28px;
+}
+
+
+
+
+/*dashbord page*/
+.home .stat {
+
+	background-color: #EEE ;
+	border:1px  solid #ccc;
+	padding: 20px;
+	font-size: 20px;
+
+}
+.home .stat span {
+	display: block;
+}
+.latest {
+
+	margin-top: 30px;
+	width: 90%;
+}
+.listlast li {
+	overflow: hidden;
+}
+.listlast li button {
+	height: 30px;
+	margin-bottom: 5px;
+}
+#act {
+	margin-bottom: 5px;
+	margin-right: 10px;
+} .parastyle {
+	width: 44%;
+	background-color: #EEE ;
+}
+.said {
+	color: green ;
+	font-size: .7em;
+}
+.lgcomm {
+	width: 38%;
+}
+/*dashbord page*/
+
+/*this is category style*/
+#vis  , #comm , #add{
+	color: white ;
+	padding: 4px 6px ;
+	background-color: #34495e;
+	margin-right: 10px;
+	border-radius: 6px;
+}
+#comm {
+	background-color:#3498db; 
+}
+#add {
+	background-color: #e74c3c;
+}
+#cat-btn {
+	position: relative;
+}
+#cat-btn1  {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+#cat-btn2 {
+	position: absolute;
+	right: 6%;
+}
+
+
+/*end   of category style*/
+/*start of styling items page*/
+#itemadd {
+	margin-top: 20px;
+	float: left;
+	margin-left: -130px;
+}
+#cat {
+	margin-left: 35%;
+}
+.select {
+	width: 70%;
+}
+#edit {
+
+	margin: 20px;
+	margin-left: -120px;
+}
+
+/*start of styling items page*/
+
+/*style of front end*/
+
+.upperbar {
+
+	padding: 5px;
+	font-size: 1.2em;
+}
+
+
+.item-box .priceitem{
+     background:#bed4e7 ;
+    padding: 6px 18px;
+    margin-bottom: 16px;
+    line-height: 24px;
+
+    font-size: 1.4em;
+}
+
+.fform {
+ padding-left: 13%;
+
+}
+.hactive {
+	color: #a3a8b2;
+}
+.hactive span {
+	cursor:pointer; 
+}
+.actv {
+	color: #6985c1;
+
+}
+/*.disactv  {
+	color: #a3a8b2;
+ 
+}*/
+/*style of front end*/
+
+
+/*profile*/
+
+.profile .panel-body{
+font-size: 1.2em;
+font-weight: bold;
+}
+.profile .panel-body span {
+	color: #557eaf;
+	padding-right: 3%;
+}
+
+/*profile*/
+
+.adsform form span {
+
+position: absolute;
+color: red;
+font-size: 47px;
+right: 19px;
+margin-right: -10px;
+z-index: 2;
+bottom: 0px;
+}
+
+#adadd {
+
+	margin-left: -19.5%;
+	margin-top: 18px;
+}
+.img-circle {
+	width: 40%;
+	height: 100px;
+}
+#approve  {
+	color: white;
+	font-size: .9em ;
+	background-color:#e44f4f;
+	font-weight: lighter;
+	margin-left: 5px;
+	margin-top: -20px;
+}
+.caption p {
+	max-height: 40px;
+	height: 40px;
+}
+.dropdown-toggle img {
+	width: 40px;
+	height: 40px;
+}
